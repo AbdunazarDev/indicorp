@@ -167,7 +167,7 @@ body {
 }
 
 .main-block__body {
-	width: clamp(45ch, 50%, 75ch);
+	width: 100%;
 	padding: 184px 0 191px 0;
 	position: relative;
 	z-index: 2;
@@ -384,7 +384,32 @@ body {
 
 
 /* ------EXPERIENCES START---------------------------------------------------------------------------- */
-
+.page__experiences {
+}
+.experiences {
+}
+.experiences__container {
+}
+.title-block {
+}
+.title-block__title {
+}
+.title-block__title--uppercase {
+}
+.title-block__subtitle {
+}
+.experiences__body {
+}
+.experiences__column {
+}
+.experiences__item {
+}
+.experiences__icon {
+}
+.experiences__value {
+}
+.experiences__text {
+}
 /* ------EXPERIENCES END---------------------------------------------------------------------------- */
 
 
